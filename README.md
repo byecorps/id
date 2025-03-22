@@ -24,7 +24,7 @@ Development
 The source code for ByeCorps ID lives in our own git forge, [shinonome.rocks](https://shinonome.rocks/byecorps/id/id), as well as a mirror on GitHub for convenience. 
 
 > [!important]
-> Please be aware that we can't accept pull requests originating from GitHub.
+> Please be aware that we can't accept pull requests on GitHub. Please submit your patches on shinonome.rocks instead.
 
 Instructions to create a development environment will come soon.
 
