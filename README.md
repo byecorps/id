@@ -25,8 +25,8 @@ To run ByeCorps ID in either a [development](#development) or a production envir
 
 * PHP 8 or newer
 * A SQL-like database compatible with PDO and relevant drivers
-    * > [!note]
-      > https://id.byecorps.com uses MariaDB for its backend
+> [!note]
+> https://id.byecorps.com uses MariaDB for its backend
 * Composer for dependency management
 
 Development
