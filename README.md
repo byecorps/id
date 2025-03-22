@@ -18,6 +18,17 @@ ByeCorps ID will support OpenID Connect, allowing it to act as an SSO provider f
 > [!note]
 > To make managing issues easier, issues for BCID are reported in YouTrack rather than on GitHub or shinonome.rocks. -->
 
+Dependencies
+------------
+
+To run ByeCorps ID in either a [development](#development) or a production environment, you will need the following installed on the server:
+
+* PHP 8 or newer
+* A SQL-like database compatible with PDO and relevant drivers
+    * > [!note]
+      > https://id.byecorps.com uses MariaDB for its backend
+* Composer for dependency management
+
 Development
 -----------
 
