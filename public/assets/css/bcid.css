@@ -1,0 +1,57 @@
+
+@import url(https://fonts.bunny.net/css?family=montserrat:400,400i,500,500i,600,600i,700,700i,800,800i|montserrat-alternates:400);
+
+body {
+    background-color: #dadada;
+
+    margin: 0;
+
+    font-family: "Montserrat", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.wrapper {
+    width: 990px;
+
+    margin: 5px auto 10px;
+}
+
+.row-content {
+    width: 990px;
+    
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+}
+
+header .first-row {
+    background-color: #efdd8d;
+    line-height: 32px;
+}
+
+header .first-row .row-content {
+    position: relative;
+}
+
+header .first-row .end {
+    position: absolute;
+    right: 0;
+    text-align: right;
+}
+
+.header-link {
+    display: block;
+
+    padding-left: 48px;
+    height: 48px;
+
+    line-height: 48px;
+
+    background: url("/assets/images/logo-notype.png") no-repeat;
+    background-position: 0 0;
+    background-size: 48px;
+
+    font-size: 24px;
+
+}

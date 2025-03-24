@@ -24,10 +24,12 @@ Dependencies
 To run ByeCorps ID in either a [development](#development) or a production environment, you will need the following installed on the server:
 
 * PHP 8 or newer
+* The following PHP modules:
+    * `php-intl`
+* `composer` for dependency management
 * A SQL-like database compatible with PDO and relevant drivers
 > [!note]
 > https://id.byecorps.com uses MariaDB for its backend
-* Composer for dependency management
 
 Development
 -----------
